@@ -16,5 +16,5 @@ The reward is defined to be alive
 
 The model's best parameters are in the train folder
 
-## Examples
+## Example
 ![dino gif](https://github.com/FruitPnchSamuraiG/Chrome_Dino_game/assets/146465657/3302f08e-cf9f-4f0a-8cd9-fa6455932deb)
