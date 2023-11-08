@@ -1,3 +1,6 @@
+
+#Dino Game using Reinforcemnet Leanring
+
 Playing Chrome's Dinosaur Game with DQN
 Introduction
 This project implements and trains an agent to play the Dinosaur Game using Deep Q Network (DQN). The network architecture for DQN to train the agent is similar to what proposed in the original paper.
